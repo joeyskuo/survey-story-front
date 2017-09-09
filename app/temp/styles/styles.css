@@ -460,6 +460,11 @@ img {
   height: auto;
 }
 
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
 .btn {
   background-color: #2f5572;
   color: #FFF;
@@ -553,6 +558,7 @@ img {
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
+  overflow: hidden;
 }
 
 .wrapper--medium {
@@ -635,4 +641,32 @@ img {
 
 .headline--b-margin-large {
     margin-bottom: 1.6em;
+  }
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+@media (min-width: 800px) {
+
+    .row__medium-picture {
+      float:left;
+      width: 33.33%;
+
+    }
+  
+    .row__medium-description {
+      float: left;
+      width: 66.66%;
+    }
+  }
+
+.row--gutters{
+    margin-right: -65px;
+  }
+
+.row--gutters > div {
+    padding-right: 65px;
   }
