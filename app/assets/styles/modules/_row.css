@@ -4,6 +4,10 @@
 
   @mixin atMedium {
 
+    &__b-margin-until-medium {
+      margin-bottom: 0; 
+    }
+
     &__medium-picture {
       float:left;
       width: 33.33%;
@@ -27,6 +31,9 @@
     }
   }
 
+  &__b-margin-until-medium {
+    margin-bottom: 1rem;
+  }
 
   &--gutters{
     margin-right: -65px;
