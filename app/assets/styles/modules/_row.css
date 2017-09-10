@@ -9,10 +9,21 @@
       width: 33.33%;
 
     }
-  
+
+    &__medium-picture--larger {
+      float:left;
+      width: 37%;
+
+    }
+
     &__medium-description {
       float: left;
       width: 66.66%;
+    }
+
+    &__medium-description--smaller {
+      float: left;
+      width: 63%;
     }
   }
 
