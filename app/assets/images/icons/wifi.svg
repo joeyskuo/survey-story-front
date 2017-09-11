@@ -1,1 +1,82 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="60" height="64" viewBox="0 0 60 64"><defs><style>.cls-1{fill:#d4953e;}</style></defs><title>wifi</title><path class="cls-1" d="M29.88,0A55.39,55.39,0,0,0,0,8.72L4.22,15.2A47.32,47.32,0,0,1,29.88,7.92a47.31,47.31,0,0,1,25.9,7.28L60,8.72A55.53,55.53,0,0,0,29.88,0Zm0,24a31.08,31.08,0,0,0-17,5l4.22,6.72A23.09,23.09,0,0,1,29.8,32a24.17,24.17,0,0,1,13,3.76L47,29A32.37,32.37,0,0,0,29.8,24h0.07Zm0,24a8,8,0,1,0,8,8A8,8,0,0,0,29.88,48Z" transform="translate(0 0)"/></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64" height="64"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<circle style="fill:#FF916E;" cx="256" cy="256" r="256"/>
+<g>
+	<rect x="62.761" y="119.114" style="fill:#FFFFFF;" width="252.069" height="159.215"/>
+	<polygon style="fill:#FFFFFF;" points="82.633,319.211 123.593,278.333 82.633,278.333 	"/>
+	<rect x="246.355" y="238.394" style="fill:#FFFFFF;" width="202.884" height="128.172"/>
+	<polygon style="fill:#FFFFFF;" points="433.192,399.499 400.321,366.552 433.192,366.552 	"/>
+</g>
+<rect x="246.355" y="238.394" style="fill:#FFDB79;" width="68.492" height="39.969"/>
+<g>
+	<rect x="139.627" y="153.336" style="fill:#CCCBCA;" width="140.959" height="5.672"/>
+	<rect x="139.627" y="167.513" style="fill:#CCCBCA;" width="140.959" height="5.685"/>
+	<rect x="139.627" y="181.71" style="fill:#CCCBCA;" width="140.959" height="5.662"/>
+	<rect x="97.006" y="195.881" style="fill:#CCCBCA;" width="183.593" height="5.672"/>
+	<rect x="97.006" y="210.052" style="fill:#CCCBCA;" width="183.593" height="5.685"/>
+	<rect x="97.006" y="224.223" style="fill:#CCCBCA;" width="183.593" height="5.682"/>
+	<rect x="97.006" y="238.394" style="fill:#CCCBCA;" width="91.79" height="5.688"/>
+</g>
+<g>
+	<path style="fill:#474F59;" d="M117.552,153.349h-7.29l-13.256,34.023h7.317l2.785-7.726h13.583l3.019,7.726h7.472L117.552,153.349
+		z M109.244,173.898l4.608-12.608l4.628,12.608H109.244z"/>
+	<polygon style="fill:#474F59;" points="352.821,319.937 342.71,319.937 339.714,268.242 355.84,268.242 	"/>
+	<rect x="342.71" y="326.59" style="fill:#474F59;" width="10.111" height="10.058"/>
+</g>
+<g>
+	<path style="fill:#FFDB79;" d="M459.644,84.592c0,30.109-24.388,54.507-54.516,54.507c-30.102,0-54.49-24.398-54.49-54.507
+		c0-30.096,24.388-54.51,54.49-54.51C435.259,30.082,459.644,54.497,459.644,84.592z"/>
+	<rect x="380.73" y="133.219" style="fill:#FFDB79;" width="48.964" height="13.54"/>
+</g>
+<rect x="375.081" y="146.762" style="fill:#474F59;" width="60.168" height="34.076"/>
+<g>
+	<rect x="387.799" y="180.838" style="fill:#FFFFFF;" width="34.687" height="9.279"/>
+	<rect x="395.66" y="92.986" style="fill:#FFFFFF;" width="2.999" height="53.76"/>
+	<rect x="385.387" y="89.98" style="fill:#FFFFFF;" width="39.526" height="3.032"/>
+	<rect x="411.747" y="92.986" style="fill:#FFFFFF;" width="3.029" height="53.76"/>
+	<path style="fill:#FFFFFF;" d="M215.07,386.286c0,30.086-24.361,54.497-54.503,54.497c-30.092,0-54.503-24.411-54.503-54.497
+		c0-30.092,24.411-54.507,54.503-54.507C190.708,331.779,215.07,356.193,215.07,386.286z"/>
+</g>
+<g>
+	<path style="fill:#FF916E;" d="M166.182,402.273h-11.214c0-7.389,4.155-14.006,10.841-17.273l4.915,10.078
+		C167.923,396.45,166.182,399.208,166.182,402.273z"/>
+	<rect x="154.968" y="402.267" style="fill:#FF916E;" width="11.214" height="4.169"/>
+	<path style="fill:#FF916E;" d="M168.729,396.589l-6.061-3.135l-0.007-3.409h5.606l-3.184-4.595l0.77-0.453
+		c4.172-2.022,6.762-6.207,6.762-10.92c0-6.656-5.404-12.07-12.044-12.07c-6.646,0-12.05,5.417-12.05,12.07h-11.214
+		c0-12.84,10.435-23.284,23.265-23.284c12.823,0,23.255,10.445,23.255,23.284c0,8.886-4.836,16.81-12.655,20.797L168.729,396.589z
+		 M168.299,390.042h5.576h-5.596H168.299z"/>
+	<rect x="155.01" y="411.978" style="fill:#FF916E;" width="11.181" height="11.175"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
