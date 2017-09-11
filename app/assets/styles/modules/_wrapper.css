@@ -6,6 +6,10 @@
   margin-right: auto;
   overflow: hidden;
 
+  &--centered {
+    text-align: center;
+  }
+
   &--medium {
     max-width: 976px;
   }

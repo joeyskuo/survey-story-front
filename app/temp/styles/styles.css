@@ -586,6 +586,10 @@ a {
 
 }
 
+.wrapper--centered {
+    text-align: center;
+  }
+
 .wrapper--medium {
     max-width: 976px;
   }
