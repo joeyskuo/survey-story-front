@@ -21,6 +21,7 @@
 
     @mixin atMedium {
       padding-top: 100px;
+      transform: translateY(-50%) translateX(-7%);
     }
 
   }
