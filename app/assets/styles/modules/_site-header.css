@@ -34,7 +34,7 @@
     transform-origin: 50% 0;
     background-color: $mainGray;
     padding: 2px 12px;
-    transition: transform .3s ease-out;
+    transition: all .3s ease-out;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
 

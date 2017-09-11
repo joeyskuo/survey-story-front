@@ -918,10 +918,8 @@ a {
             transform-origin: 50% 0;
     background-color: #0b6b64;
     padding: 2px 12px;
-    -webkit-transition: -webkit-transform .3s ease-out;
-    transition: -webkit-transform .3s ease-out;
-    transition: transform .3s ease-out;
-    transition: transform .3s ease-out, -webkit-transform .3s ease-out;
+    -webkit-transition: all .3s ease-out;
+    transition: all .3s ease-out;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
   }
