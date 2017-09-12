@@ -7,7 +7,7 @@
   }
 
   &--blue {
-    background-color: $mainBlue;
+    background-color: $darkGray;
     color: #FFF;
   }
 }
